@@ -1,0 +1,7 @@
+.idea
+
+.env*
+
+notebook/.*
+
+.DS_Store
